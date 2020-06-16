@@ -1,0 +1,21 @@
+{
+  "name": "music-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "file-type": "^14.6.2",
+    "got": "^11.3.0",
+    "node-fetch": "^2.6.0",
+    "stream": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
